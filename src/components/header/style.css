@@ -1,0 +1,21 @@
+* {
+  padding: 0;
+  margin: 0;
+}
+
+.header {
+  width: 390px;
+  height: 70px;
+  left: 0px;
+  top: 0px;
+  background: #0060B1;
+  }
+
+.logo {
+  font-family: 'Courier New', Courier, monospace;
+  color: white;
+  position: relative;
+  top: 25px;
+  left: 20px;
+  font-size: 12px;
+}
